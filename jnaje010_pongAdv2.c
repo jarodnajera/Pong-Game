@@ -2,8 +2,8 @@
 
 /* Jarod Najera jnaje010@ucr.edu
  * Section 022
- * Lab 11 Advancement 1
- * Pong: Ball Physics
+ * Lab 11 Advancement 2
+ * Pong: Menu and 2 Player
  *
  * I acknowledge all content contained herein, excluding template or example
  * code, is my own original work
